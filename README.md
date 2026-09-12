@@ -34,8 +34,8 @@
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naivezip&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="naivezip stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naivezip&layout=compact&theme=github_dark&hide_border=true" height="150" alt="top languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=naivezip&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="naivezip stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=naivezip&layout=compact&theme=github_dark&hide_border=true" height="150" alt="top languages" />
 </p>
 
 <p align="center">
