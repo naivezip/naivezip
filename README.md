@@ -3,7 +3,7 @@
 # Hi there, I'm naivezip 👋
 
 <a href="https://naivezip.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&height=40&lines=Software+Developer+%F0%9F%92%BB;Wannabe+Wizard+%E2%9C%A8;Open+Source+Explorer+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&height=40&lines=AI+Full-Stack+Developer+%F0%9F%A4%96;Wannabe+Wizard+%E2%9C%A8;Open+Source+Explorer+%F0%9F%8C%90" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -24,9 +24,9 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Software developer focused on backend systems and open-source software.
+- 💻 Software developer focused on AI full-stack development and open-source software.
 - 📝 Writing thoughts and notes at [naivezip.github.io](https://naivezip.github.io).
-- 🎯 Currently exploring: distributed systems, cloud-native architectures, and developer tooling.
+- 🎯 Currently exploring: AI applications & agents, modern full-stack architectures, and developer tooling.
 - 📫 Reach me at [zipz6110@gmail.com](mailto:zipz6110@gmail.com).
 
 ---
