@@ -22,12 +22,12 @@
 
 ---
 
-### 💫 About Me
+### 👨‍💻 About Me
 
-- 🧙‍♂️ **Profile**: Software Developer & Wannabe Wizard
-- 🌐 **Blog**: [naivezip.github.io](https://naivezip.github.io)
-- 🔭 **Interests**: Exploring open-source ecosystems, backend architecture & developer tools
-- 📫 **Reach Me**: [zipz6110@gmail.com](mailto:zipz6110@gmail.com)
+- 💻 Software developer focused on backend systems and open-source software.
+- 📝 Writing thoughts and notes at [naivezip.github.io](https://naivezip.github.io).
+- 🎯 Currently exploring: distributed systems, cloud-native architectures, and developer tooling.
+- 📫 Reach me at [zipz6110@gmail.com](mailto:zipz6110@gmail.com).
 
 ---
 
