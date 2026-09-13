@@ -7,9 +7,6 @@
 </a>
 
 <p align="center">
-  <a href="https://naivezip.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-naivezip.github.io-blue?style=flat&logo=safari&logoColor=white" />
-  </a>
   <a href="mailto:zipz6110@gmail.com">
     <img src="https://img.shields.io/badge/Email-zipz6110%40gmail.com-red?style=flat&logo=gmail&logoColor=white" />
   </a>
